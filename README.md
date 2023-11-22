@@ -1,4 +1,7 @@
 # githubInfo2
+
+Github Tutorial
+
 Create a new repository as githubInfo2 in github
 
 Create a folder as "githubInfo2" and add files in in "githubInfo2" folder from visual code that should be reflect in a github repository by using following steps:
