@@ -1,7 +1,7 @@
 # githubInfo2
 Create a new repository as githubInfo2 in github
 
-Create a folder as "githubInfo2" and add files to it in local folder and bring it to  a github repository by using following steps:
+Create a folder as "githubInfo2" and add files in in "githubInfo2" folder from visual code that should be reflect in a github repository by using following steps:
 
   -Create a new folder as githubInfo2 in visual studio
   
